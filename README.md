@@ -1,1 +1,0 @@
-# Get-Distributed-Portgroups-for-a-VLAN-on-a-Cluster
